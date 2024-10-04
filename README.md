@@ -21,8 +21,8 @@ Step 5: end the program
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: YUVARAJ V
-RegisterNumber:  212223230252
+Developed by: VIGNESH M
+RegisterNumber:  212223240176
 */
 ```
 ```
